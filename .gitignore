@@ -1,0 +1,16 @@
+# Private and generated material
+.env
+.env.*
+*.exe
+*.msi
+*.mst
+*.dll
+*.pdb
+*.zip
+*.log
+__pycache__/
+work/
+backup/
+backups/
+test-config/
+dist/

@@ -1,0 +1,25 @@
+{
+  "version": "9.7.3.3916",
+  "architecture": "x64",
+  "catalog_entries": 11688,
+  "translated": 6039,
+  "changed_modules": 9,
+  "changed_resources": 375,
+  "automated_local_tests": 21,
+  "runtime": {
+    "loopback_ssh_authentication": true,
+    "unicode_welcome": true,
+    "sftp_prompt": true,
+    "actual_sftp_transfer": false,
+    "external_device_connection": false,
+    "serial_io": false,
+    "clean_windows_install": false
+  },
+  "preserved_program_files": 153,
+  "preserved_security_and_protocol_modules": 18,
+  "private_configuration_included": false,
+  "source_tree_contains_original_installer": false,
+  "release_contains_integrated_installer": true,
+  "integrated_installer_unsigned": true,
+  "installer_sha256": "B00EB93E4BE74CAC5EFF32CD80E77BDB645764B9132286FC7B8F43D29987F66C"
+}

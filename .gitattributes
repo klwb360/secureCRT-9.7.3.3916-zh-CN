@@ -1,0 +1,7 @@
+# Preserve exact patch/script bytes; manifests pin SHA256 values.
+* -text
+* whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+# Catalog fields intentionally preserve resource whitespace.
+docs/translations.csv -whitespace
+*.gz binary
+*.png binary

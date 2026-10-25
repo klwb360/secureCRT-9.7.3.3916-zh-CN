@@ -1,0 +1,3105 @@
+{
+  "schema": 1,
+  "product": "SecureCRT",
+  "version": "9.7.3.3916",
+  "architecture": "x64",
+  "files": [
+    {
+      "file": "BCGCBPRO3620u143.dll",
+      "original_sha256": "7AE8E60A65706DE2C41D43143E5B86BDABF0812934FE265880E7C17ED04CD960",
+      "patched_sha256": "3A85DB6D524C1DF0936D38D3C75755A3AC7B1F17779533AF60BA3343364711C2",
+      "changed_resources": 74,
+      "translated_units": 577,
+      "non_resource_sections": {
+        ".text": "AC060D5758DC1C521326619FEC51BAC48E809F2880C104FBDB022B64B1A8AB4B",
+        ".rdata": "D1C96C7396B48B4575DF306153EA7FD385D6A90A108D4DF95724ACA34E009F63",
+        ".data": "D35631786B058BA24ABEAE16EBC85B649356062E2ACEEAF686F76B6D4E9085D9",
+        ".pdata": "CBEB6FD33E45621D6C381F4A86B8838A3D3D0C140EB00AA59C17F144615932C1",
+        ".reloc": "A4C007E25951D72FB61B52CC47539259A00B95EA2AF09A4C0526B181190214A3"
+      },
+      "layout_adjustments": [
+        {
+          "resource": [
+            5,
+            16104,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 0,
+              "before": [
+                7,
+                7,
+                36,
+                8
+              ],
+              "after": [
+                7,
+                7,
+                38,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            16105,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 0,
+              "before": [
+                7,
+                7,
+                30,
+                8
+              ],
+              "after": [
+                7,
+                7,
+                46,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            16132,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 5,
+              "before": [
+                7,
+                134,
+                37,
+                8
+              ],
+              "after": [
+                7,
+                134,
+                38,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            16133,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 0,
+              "before": [
+                7,
+                7,
+                25,
+                8
+              ],
+              "after": [
+                7,
+                7,
+                26,
+                8
+              ]
+            },
+            {
+              "index": 2,
+              "before": [
+                138,
+                7,
+                22,
+                8
+              ],
+              "after": [
+                138,
+                7,
+                26,
+                8
+              ]
+            },
+            {
+              "index": 5,
+              "before": [
+                138,
+                104,
+                20,
+                8
+              ],
+              "after": [
+                138,
+                104,
+                26,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            16135,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 0,
+              "before": [
+                7,
+                7,
+                18,
+                8
+              ],
+              "after": [
+                7,
+                7,
+                38,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            16928,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 1,
+              "before": [
+                8,
+                77,
+                34,
+                8
+              ],
+              "after": [
+                8,
+                77,
+                38,
+                8
+              ]
+            },
+            {
+              "index": 4,
+              "before": [
+                8,
+                95,
+                36,
+                8
+              ],
+              "after": [
+                8,
+                95,
+                38,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            16963,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 0,
+              "before": [
+                2,
+                103,
+                16,
+                8
+              ],
+              "after": [
+                2,
+                103,
+                17,
+                8
+              ]
+            },
+            {
+              "index": 3,
+              "before": [
+                2,
+                120,
+                14,
+                8
+              ],
+              "after": [
+                2,
+                120,
+                17,
+                8
+              ]
+            },
+            {
+              "index": 6,
+              "before": [
+                2,
+                137,
+                16,
+                8
+              ],
+              "after": [
+                2,
+                137,
+                17,
+                8
+              ]
+            },
+            {
+              "index": 9,
+              "before": [
+                65,
+                103,
+                16,
+                8
+              ],
+              "after": [
+                65,
+                103,
+                22,
+                8
+              ]
+            },
+            {
+              "index": 15,
+              "before": [
+                65,
+                137,
+                17,
+                8
+              ],
+              "after": [
+                65,
+                137,
+                22,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            17072,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 11,
+              "before": [
+                77,
+                115,
+                22,
+                8
+              ],
+              "after": [
+                77,
+                115,
+                30,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            17076,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 0,
+              "before": [
+                7,
+                7,
+                36,
+                8
+              ],
+              "after": [
+                7,
+                7,
+                38,
+                8
+              ]
+            },
+            {
+              "index": 4,
+              "before": [
+                7,
+                97,
+                43,
+                8
+              ],
+              "after": [
+                7,
+                97,
+                54,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            17174,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 3,
+              "before": [
+                69,
+                34,
+                24,
+                8
+              ],
+              "after": [
+                69,
+                34,
+                26,
+                8
+              ]
+            },
+            {
+              "index": 13,
+              "before": [
+                7,
+                197,
+                18,
+                8
+              ],
+              "after": [
+                7,
+                197,
+                22,
+                8
+              ]
+            },
+            {
+              "index": 15,
+              "before": [
+                81,
+                197,
+                12,
+                8
+              ],
+              "after": [
+                81,
+                197,
+                16,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            17218,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 0,
+              "before": [
+                7,
+                8,
+                33,
+                8
+              ],
+              "after": [
+                7,
+                8,
+                38,
+                8
+              ]
+            },
+            {
+              "index": 2,
+              "before": [
+                7,
+                28,
+                33,
+                8
+              ],
+              "after": [
+                7,
+                28,
+                38,
+                8
+              ]
+            },
+            {
+              "index": 7,
+              "before": [
+                7,
+                68,
+                33,
+                8
+              ],
+              "after": [
+                7,
+                68,
+                54,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            17334,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 0,
+              "before": [
+                7,
+                8,
+                44,
+                8
+              ],
+              "after": [
+                7,
+                8,
+                45,
+                8
+              ]
+            },
+            {
+              "index": 2,
+              "before": [
+                7,
+                29,
+                44,
+                8
+              ],
+              "after": [
+                7,
+                29,
+                45,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            17335,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 0,
+              "before": [
+                7,
+                8,
+                44,
+                8
+              ],
+              "after": [
+                7,
+                8,
+                45,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            17405,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 8,
+              "before": [
+                224,
+                36,
+                41,
+                8
+              ],
+              "after": [
+                224,
+                36,
+                50,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            17433,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 0,
+              "before": [
+                7,
+                7,
+                19,
+                8
+              ],
+              "after": [
+                7,
+                7,
+                42,
+                8
+              ]
+            },
+            {
+              "index": 2,
+              "before": [
+                173,
+                7,
+                35,
+                8
+              ],
+              "after": [
+                173,
+                7,
+                54,
+                8
+              ]
+            },
+            {
+              "index": 4,
+              "before": [
+                260,
+                7,
+                18,
+                8
+              ],
+              "after": [
+                260,
+                7,
+                42,
+                8
+              ]
+            },
+            {
+              "index": 9,
+              "before": [
+                15,
+                173,
+                21,
+                8
+              ],
+              "after": [
+                15,
+                173,
+                42,
+                8
+              ]
+            },
+            {
+              "index": 11,
+              "before": [
+                7,
+                204,
+                21,
+                8
+              ],
+              "after": [
+                7,
+                204,
+                25,
+                8
+              ]
+            }
+          ]
+        }
+      ],
+      "patch": "patches/BCGCBPRO3620u143.dll.json",
+      "payload": "patches/BCGCBPRO3620u143.dll.bin.gz",
+      "patch_sha256": "908B14CA348AB0EEF060CBD5F6ABB790185D5662FD193D7EB8185F1CEAFDCE2A",
+      "payload_sha256": "86348B444478C69CAF9E2B0F2A1F5890E9F697377FF28FC21210032E2306CC8A",
+      "original_size": 15683464,
+      "patched_size": 15671688
+    },
+    {
+      "file": "ClientConfigUI97U.dll",
+      "original_sha256": "6482CCC009AD44AAA4C513D76F682EE444F6117ACC7FAD745FF312E80E9D9073",
+      "patched_sha256": "4B39F67A72074FE3B3FB4EBFC7C076D6E967F6D333CE245AB3F762F1B15B3D87",
+      "changed_resources": 90,
+      "translated_units": 1342,
+      "non_resource_sections": {
+        ".text": "8B9E6A36945B3EB3C1A7CC3B6097C00773B187DEC6B8570BFCD969CD5AAF4FA2",
+        ".rdata": "D699D3CD00A65B35BAA75ADF2A496CC1814CFBF489AB0BE4F0A029FED7760E58",
+        ".data": "3793610652DA78FCCDBCD1BC0E13CDAD678BE4A7AADFE5A302F3058F00835549",
+        ".pdata": "5111378B00896613A1D3B357CD9053192EF4BBD0A7DBB257AF8992BD718386A7",
+        ".reloc": "CF3DE86820289F8C2B346EDE0CD9E4B6E4DA2B0828EE325D790A35AD40D65883"
+      },
+      "layout_adjustments": [
+        {
+          "resource": [
+            5,
+            4005,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 0,
+              "before": [
+                7,
+                7,
+                36,
+                8
+              ],
+              "after": [
+                7,
+                7,
+                46,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            4017,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 0,
+              "before": [
+                7,
+                9,
+                23,
+                8
+              ],
+              "after": [
+                7,
+                9,
+                32,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            4029,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 1,
+              "before": [
+                7,
+                39,
+                35,
+                8
+              ],
+              "after": [
+                7,
+                39,
+                37,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            4032,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 1,
+              "before": [
+                7,
+                39,
+                34,
+                8
+              ],
+              "after": [
+                7,
+                39,
+                37,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            4040,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 11,
+              "before": [
+                6,
+                86,
+                35,
+                8
+              ],
+              "after": [
+                6,
+                86,
+                38,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            4145,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 4,
+              "before": [
+                7,
+                86,
+                38,
+                8
+              ],
+              "after": [
+                7,
+                86,
+                46,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            4165,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 13,
+              "before": [
+                30,
+                147,
+                37,
+                8
+              ],
+              "after": [
+                30,
+                147,
+                38,
+                8
+              ]
+            },
+            {
+              "index": 15,
+              "before": [
+                30,
+                162,
+                37,
+                8
+              ],
+              "after": [
+                30,
+                162,
+                46,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            4234,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 0,
+              "before": [
+                5,
+                0,
+                31,
+                8
+              ],
+              "after": [
+                5,
+                0,
+                38,
+                8
+              ]
+            },
+            {
+              "index": 12,
+              "before": [
+                5,
+                93,
+                21,
+                8
+              ],
+              "after": [
+                5,
+                93,
+                38,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            4236,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 1,
+              "before": [
+                7,
+                12,
+                18,
+                8
+              ],
+              "after": [
+                7,
+                12,
+                20,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            4255,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 15,
+              "before": [
+                7,
+                168,
+                14,
+                8
+              ],
+              "after": [
+                7,
+                168,
+                16,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            4285,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 11,
+              "before": [
+                8,
+                136,
+                25,
+                10
+              ],
+              "after": [
+                8,
+                136,
+                26,
+                10
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            4301,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 5,
+              "before": [
+                7,
+                49,
+                43,
+                8
+              ],
+              "after": [
+                7,
+                49,
+                54,
+                8
+              ]
+            },
+            {
+              "index": 15,
+              "before": [
+                7,
+                129,
+                43,
+                8
+              ],
+              "after": [
+                7,
+                129,
+                54,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            4310,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 0,
+              "before": [
+                1,
+                2,
+                34,
+                8
+              ],
+              "after": [
+                1,
+                2,
+                38,
+                8
+              ]
+            },
+            {
+              "index": 3,
+              "before": [
+                7,
+                32,
+                34,
+                8
+              ],
+              "after": [
+                7,
+                32,
+                38,
+                8
+              ]
+            },
+            {
+              "index": 13,
+              "before": [
+                7,
+                81,
+                42,
+                8
+              ],
+              "after": [
+                7,
+                81,
+                45,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            4319,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 0,
+              "before": [
+                1,
+                2,
+                34,
+                8
+              ],
+              "after": [
+                1,
+                2,
+                38,
+                8
+              ]
+            },
+            {
+              "index": 2,
+              "before": [
+                1,
+                21,
+                34,
+                8
+              ],
+              "after": [
+                1,
+                21,
+                38,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            4365,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 1,
+              "before": [
+                7,
+                11,
+                33,
+                8
+              ],
+              "after": [
+                7,
+                11,
+                38,
+                8
+              ]
+            },
+            {
+              "index": 3,
+              "before": [
+                120,
+                11,
+                41,
+                8
+              ],
+              "after": [
+                120,
+                11,
+                54,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            4393,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 12,
+              "before": [
+                123,
+                90,
+                40,
+                8
+              ],
+              "after": [
+                123,
+                90,
+                46,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            4402,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 4,
+              "before": [
+                13,
+                57,
+                21,
+                8
+              ],
+              "after": [
+                13,
+                57,
+                26,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            4453,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 16,
+              "before": [
+                127,
+                125,
+                14,
+                8
+              ],
+              "after": [
+                127,
+                125,
+                18,
+                8
+              ]
+            },
+            {
+              "index": 20,
+              "before": [
+                111,
+                157,
+                18,
+                8
+              ],
+              "after": [
+                111,
+                157,
+                23,
+                8
+              ]
+            },
+            {
+              "index": 24,
+              "before": [
+                111,
+                176,
+                18,
+                8
+              ],
+              "after": [
+                111,
+                176,
+                23,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            4482,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 1,
+              "before": [
+                6,
+                13,
+                26,
+                8
+              ],
+              "after": [
+                6,
+                13,
+                36,
+                8
+              ]
+            },
+            {
+              "index": 4,
+              "before": [
+                6,
+                31,
+                35,
+                8
+              ],
+              "after": [
+                6,
+                31,
+                36,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            5008,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 3,
+              "before": [
+                80,
+                13,
+                25,
+                8
+              ],
+              "after": [
+                80,
+                13,
+                27,
+                8
+              ]
+            },
+            {
+              "index": 7,
+              "before": [
+                80,
+                30,
+                25,
+                8
+              ],
+              "after": [
+                80,
+                30,
+                27,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            5015,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 2,
+              "before": [
+                7,
+                9,
+                22,
+                8
+              ],
+              "after": [
+                7,
+                9,
+                32,
+                8
+              ]
+            },
+            {
+              "index": 4,
+              "before": [
+                7,
+                27,
+                20,
+                8
+              ],
+              "after": [
+                7,
+                27,
+                32,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            5031,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 7,
+              "before": [
+                19,
+                157,
+                43,
+                8
+              ],
+              "after": [
+                19,
+                157,
+                48,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            5035,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 4,
+              "before": [
+                7,
+                61,
+                36,
+                8
+              ],
+              "after": [
+                7,
+                61,
+                46,
+                8
+              ]
+            },
+            {
+              "index": 15,
+              "before": [
+                5,
+                159,
+                29,
+                8
+              ],
+              "after": [
+                5,
+                159,
+                37,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            5046,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 5,
+              "before": [
+                19,
+                66,
+                15,
+                8
+              ],
+              "after": [
+                19,
+                66,
+                30,
+                8
+              ]
+            },
+            {
+              "index": 7,
+              "before": [
+                19,
+                85,
+                19,
+                8
+              ],
+              "after": [
+                19,
+                85,
+                38,
+                8
+              ]
+            },
+            {
+              "index": 9,
+              "before": [
+                19,
+                104,
+                30,
+                8
+              ],
+              "after": [
+                19,
+                104,
+                38,
+                8
+              ]
+            },
+            {
+              "index": 12,
+              "before": [
+                19,
+                158,
+                15,
+                8
+              ],
+              "after": [
+                19,
+                158,
+                30,
+                8
+              ]
+            },
+            {
+              "index": 15,
+              "before": [
+                19,
+                204,
+                41,
+                8
+              ],
+              "after": [
+                19,
+                204,
+                42,
+                8
+              ]
+            },
+            {
+              "index": 17,
+              "before": [
+                19,
+                223,
+                30,
+                8
+              ],
+              "after": [
+                19,
+                223,
+                38,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            5056,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 0,
+              "before": [
+                0,
+                2,
+                39,
+                8
+              ],
+              "after": [
+                0,
+                2,
+                47,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            11478,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 7,
+              "before": [
+                7,
+                85,
+                37,
+                8
+              ],
+              "after": [
+                7,
+                85,
+                44,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            11529,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 0,
+              "before": [
+                7,
+                10,
+                35,
+                8
+              ],
+              "after": [
+                7,
+                10,
+                38,
+                8
+              ]
+            },
+            {
+              "index": 2,
+              "before": [
+                8,
+                28,
+                35,
+                8
+              ],
+              "after": [
+                8,
+                28,
+                46,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            11533,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 3,
+              "before": [
+                14,
+                43,
+                18,
+                8
+              ],
+              "after": [
+                14,
+                43,
+                19,
+                8
+              ]
+            },
+            {
+              "index": 10,
+              "before": [
+                14,
+                105,
+                33,
+                8
+              ],
+              "after": [
+                14,
+                105,
+                36,
+                8
+              ]
+            },
+            {
+              "index": 13,
+              "before": [
+                7,
+                151,
+                18,
+                8
+              ],
+              "after": [
+                7,
+                151,
+                23,
+                8
+              ]
+            }
+          ]
+        }
+      ],
+      "patch": "patches/ClientConfigUI97U.dll.json",
+      "payload": "patches/ClientConfigUI97U.dll.bin.gz",
+      "patch_sha256": "F48FCD77A69DC28A43222DA7D35F6D48A48E724339006AA3E421AEB88DE804A1",
+      "payload_sha256": "89377B2C3317B08E641F71E9CC843394BC720CDFD436459484576A526FFEA691",
+      "original_size": 3965320,
+      "patched_size": 3919240
+    },
+    {
+      "file": "CommonUI97U.dll",
+      "original_sha256": "460CAD2392B04583E3B6455BBFFF30436E890F92AAC1A076FB1B5167EEA3A2A8",
+      "patched_sha256": "22FEF88DC1C6F4312C9BDC714503B11929976DA209DF9F776656F3EFA2D86748",
+      "changed_resources": 17,
+      "translated_units": 168,
+      "non_resource_sections": {
+        ".text": "80CB16018D31401F6F4E98DA2633E57BF23C7E79C9AFC0517A5CA6E93FE7C14D",
+        ".rdata": "3FBE7302904E7A3BA471DB7EACBEDB4105918C83990618C0DBF8E30968D53DFD",
+        ".data": "3BBFA447D17CF7FFCF050AA0A42B301A08468BCF220BAAFB503E0630C9A643AA",
+        ".pdata": "D459F57B2304BE316B50064D563449DC9C2007DD2F338EF5431ED3C2A35D6664",
+        ".reloc": "4C7B32AA0D879F1D3FAE24A0A20454DD701CC238F02EDB85FC51776CC5A043BA"
+      },
+      "layout_adjustments": [
+        {
+          "resource": [
+            5,
+            1045,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 12,
+              "before": [
+                7,
+                145,
+                42,
+                8
+              ],
+              "after": [
+                7,
+                145,
+                58,
+                8
+              ]
+            },
+            {
+              "index": 14,
+              "before": [
+                7,
+                164,
+                25,
+                8
+              ],
+              "after": [
+                7,
+                164,
+                54,
+                8
+              ]
+            },
+            {
+              "index": 16,
+              "before": [
+                7,
+                183,
+                19,
+                8
+              ],
+              "after": [
+                7,
+                183,
+                38,
+                8
+              ]
+            },
+            {
+              "index": 21,
+              "before": [
+                7,
+                221,
+                30,
+                8
+              ],
+              "after": [
+                7,
+                221,
+                54,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            5011,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 4,
+              "before": [
+                7,
+                5,
+                31,
+                8
+              ],
+              "after": [
+                7,
+                5,
+                38,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            5017,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 6,
+              "before": [
+                7,
+                5,
+                31,
+                8
+              ],
+              "after": [
+                7,
+                5,
+                38,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            5018,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 5,
+              "before": [
+                7,
+                5,
+                31,
+                8
+              ],
+              "after": [
+                7,
+                5,
+                38,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            5020,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 4,
+              "before": [
+                7,
+                5,
+                31,
+                8
+              ],
+              "after": [
+                7,
+                5,
+                38,
+                8
+              ]
+            }
+          ]
+        }
+      ],
+      "patch": "patches/CommonUI97U.dll.json",
+      "payload": "patches/CommonUI97U.dll.bin.gz",
+      "patch_sha256": "B878C201749FF5E0A33BAB94A10E86F0D59CB5CEF3D8C4E3FE48B3CC98D9FF27",
+      "payload_sha256": "02FE1A23584D8B7FBEE8D8193DBB54B55F349794B482353D8147EAD8AB6B0C5C",
+      "original_size": 1758600,
+      "patched_size": 1749384
+    },
+    {
+      "file": "ConnectDialog97U.dll",
+      "original_sha256": "A8B239245640CB5EDAFFAE6F1323C9D9FED45C9BFB3CEB11A66159369BAC4E3A",
+      "patched_sha256": "9E5DA88602A8C8BEC202BDB67EB476D1235F19DB92E2EF10DD3BDF8FFC8016A9",
+      "changed_resources": 22,
+      "translated_units": 330,
+      "non_resource_sections": {
+        ".text": "41BC3422C30353EC21F64A77767A3BD33DE3D86E79E7FDCE0A6AA0FE4FCF6D64",
+        ".rdata": "857EECF39CC2840AC3659F0ADE5696FF04FC45BE7AEC2F3D22A984FD5A5A5BF2",
+        ".data": "18959494164326313CDF1FF14FA927C0E2B109AB136FE094F0FB2ED4E5257B3E",
+        ".pdata": "27D95FD9C7029B52C3AD11431563D8B05D5085BCD3FAF9D2EC4E8B9A819C29A2",
+        ".reloc": "B41ED0F5876A540C136A09C2220403044BC87772562FDA46AC28CE06D27DB4F6"
+      },
+      "layout_adjustments": [
+        {
+          "resource": [
+            5,
+            217,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 0,
+              "before": [
+                7,
+                9,
+                34,
+                8
+              ],
+              "after": [
+                7,
+                9,
+                38,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            11463,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 2,
+              "before": [
+                89,
+                44,
+                30,
+                8
+              ],
+              "after": [
+                89,
+                44,
+                32,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            11477,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 0,
+              "before": [
+                7,
+                9,
+                22,
+                8
+              ],
+              "after": [
+                7,
+                9,
+                38,
+                8
+              ]
+            }
+          ]
+        }
+      ],
+      "patch": "patches/ConnectDialog97U.dll.json",
+      "payload": "patches/ConnectDialog97U.dll.bin.gz",
+      "patch_sha256": "61E42AD6E2C3EC15FCDFD553FB20258521EFD58220D9CF70075F0F0707399015",
+      "payload_sha256": "A8E7458D98B534FB4E2F9405641F0EFFD6AF6ED1137D97854792BC01738BE48E",
+      "original_size": 3028360,
+      "patched_size": 3017608
+    },
+    {
+      "file": "LicenseUI97U.dll",
+      "original_sha256": "912F2240644D2358B52B0FB0B01AA364DE6C7E3AA05FFF781EFBD8D4ED53CE8E",
+      "patched_sha256": "73B5ABE31E7DED8D787917FDCB4746AB2C4C64A6FEA0F471C04AE21F8447F16B",
+      "changed_resources": 35,
+      "translated_units": 237,
+      "non_resource_sections": {
+        ".text": "02D2953951182A6F5FE020AF480259784A1DF6350EC6FB78603F873EA03B428A",
+        ".rdata": "05062A6FA1FD9E484766C6D819A74F1FEBB54DE6327080D42B08DF10A19AD54B",
+        ".data": "D5948FB99EF894D7B8C7C347498496D25835E54AA45516D8D488CB48752560E2",
+        ".pdata": "0D5FDAE5902FDBCA1721C23D8652FFA0E18EED07946A4492BC678DF86BC70ED0",
+        ".reloc": "7CE2E4662A67C7F73AAE1D77CF4E95A6956431EEE63E740D966F5BC1F97945FB"
+      },
+      "layout_adjustments": [],
+      "patch": "patches/LicenseUI97U.dll.json",
+      "payload": "patches/LicenseUI97U.dll.bin.gz",
+      "patch_sha256": "0ECA47D41CB7D25F426E49226EC1713165A31E1D8E087926FBD52C32A63C2570",
+      "payload_sha256": "7B6CFE61635B33505DD2FF67E9787476D5B74710D28240E01C6F6775EAE03080",
+      "original_size": 1866120,
+      "patched_size": 1853832
+    },
+    {
+      "file": "SecureCRT.exe",
+      "original_sha256": "F76A629F6945EF0E0F69B6F61C42B19639EB5E550BC234F403C701E3D708E239",
+      "patched_sha256": "0E5EBBA043295D680C1C425BE567FE37C613F2498BB2616FB186E8CCFF5662BB",
+      "changed_resources": 82,
+      "translated_units": 2185,
+      "non_resource_sections": {
+        ".text": "4276B7AC21D27048FC531F637702B775D912DA39B669B6252E4310C1D381A371",
+        ".rdata": "765CDDFD4C353B8830E8C77C6D442A5B6110E8073695814266194BECC091132A",
+        ".data": "08241504D53094F257CAA42055D0121C5B92FC352F0F33BD5D91DDB2979DDA3E",
+        ".pdata": "DC5A20FC1B29B921144B783F5025FC5C9E98A019E75B726E4FFB85D62AE8520F",
+        ".reloc": "B9D16DA9BC94E14A521C2C1930E48102719B1D31A7BA78982DFF96DDE0763EED"
+      },
+      "layout_adjustments": [
+        {
+          "resource": [
+            5,
+            111,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 2,
+              "before": [
+                15,
+                18,
+                24,
+                8
+              ],
+              "after": [
+                15,
+                18,
+                26,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            112,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 5,
+              "before": [
+                85,
+                19,
+                25,
+                8
+              ],
+              "after": [
+                85,
+                19,
+                28,
+                8
+              ]
+            },
+            {
+              "index": 7,
+              "before": [
+                85,
+                36,
+                25,
+                8
+              ],
+              "after": [
+                85,
+                36,
+                28,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            122,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 18,
+              "before": [
+                14,
+                80,
+                19,
+                10
+              ],
+              "after": [
+                14,
+                80,
+                24,
+                10
+              ]
+            },
+            {
+              "index": 23,
+              "before": [
+                7,
+                105,
+                37,
+                10
+              ],
+              "after": [
+                7,
+                105,
+                38,
+                10
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            136,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 1,
+              "before": [
+                7,
+                45,
+                34,
+                8
+              ],
+              "after": [
+                7,
+                45,
+                38,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            1548,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 1,
+              "before": [
+                7,
+                23,
+                34,
+                8
+              ],
+              "after": [
+                7,
+                23,
+                38,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            1549,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 0,
+              "before": [
+                7,
+                9,
+                34,
+                8
+              ],
+              "after": [
+                7,
+                9,
+                38,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            1550,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 1,
+              "before": [
+                7,
+                23,
+                34,
+                8
+              ],
+              "after": [
+                7,
+                23,
+                38,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            1551,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 0,
+              "before": [
+                7,
+                9,
+                34,
+                8
+              ],
+              "after": [
+                7,
+                9,
+                38,
+                8
+              ]
+            }
+          ]
+        }
+      ],
+      "patch": "patches/SecureCRT.exe.json",
+      "payload": "patches/SecureCRT.exe.bin.gz",
+      "patch_sha256": "865DF72598AFA75B593D2040D2A0D6EE4A216D323DA8B5A12C67273241DE99BE",
+      "payload_sha256": "8F47DA93AA81B7A1BE8148EFDF70BB67F227F7728FCDBEBEED395B141F42FB8D",
+      "original_size": 5778824,
+      "patched_size": 5690248
+    },
+    {
+      "file": "SSH2Client97U.dll",
+      "original_sha256": "6C92279D25134C3109D5ED2CF4F8B8D44F0BCCB8E4643CAB279CD30814A50C82",
+      "patched_sha256": "080FF9A80C8F9CE503EB965697C400930457CE9780789E1079BD1DB50448888D",
+      "changed_resources": 53,
+      "translated_units": 587,
+      "non_resource_sections": {
+        ".text": "3CA8AE5F91F29B92EFFFC97843731DF4701679006D63465AF1A25854BAAE1BD9",
+        ".rdata": "655BC077121D6CF1D9DD54850DD203D775B919A169B4440F607E86AD532C3CA6",
+        ".data": "A698F4D52C20616A5E9EC459A9C16AE7E36FC846C6AB5EC9DBB2FCCD641FB194",
+        ".pdata": "BAC35E680B4DAEBA45C8CAFCD051404E635249E196BB51D8AD68A46CC1593F27",
+        ".reloc": "1BDA8CC241D842D41C6747ABA62DB8734880306EB6F1D27558CF1290BD832EB8"
+      },
+      "layout_adjustments": [
+        {
+          "resource": [
+            5,
+            105,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 0,
+              "before": [
+                7,
+                43,
+                38,
+                8
+              ],
+              "after": [
+                7,
+                43,
+                39,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            108,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 1,
+              "before": [
+                7,
+                39,
+                35,
+                8
+              ],
+              "after": [
+                7,
+                39,
+                37,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            110,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 1,
+              "before": [
+                7,
+                45,
+                34,
+                8
+              ],
+              "after": [
+                7,
+                45,
+                39,
+                8
+              ]
+            },
+            {
+              "index": 3,
+              "before": [
+                7,
+                63,
+                34,
+                8
+              ],
+              "after": [
+                7,
+                63,
+                38,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            140,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 17,
+              "before": [
+                55,
+                171,
+                37,
+                8
+              ],
+              "after": [
+                55,
+                171,
+                38,
+                8
+              ]
+            },
+            {
+              "index": 19,
+              "before": [
+                43,
+                189,
+                23,
+                10
+              ],
+              "after": [
+                43,
+                189,
+                24,
+                10
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            220,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 0,
+              "before": [
+                0,
+                3,
+                35,
+                8
+              ],
+              "after": [
+                0,
+                3,
+                46,
+                8
+              ]
+            },
+            {
+              "index": 2,
+              "before": [
+                0,
+                21,
+                16,
+                8
+              ],
+              "after": [
+                0,
+                21,
+                38,
+                8
+              ]
+            },
+            {
+              "index": 4,
+              "before": [
+                114,
+                21,
+                31,
+                8
+              ],
+              "after": [
+                114,
+                21,
+                33,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            1000,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 0,
+              "before": [
+                7,
+                7,
+                18,
+                8
+              ],
+              "after": [
+                7,
+                7,
+                22,
+                8
+              ]
+            },
+            {
+              "index": 2,
+              "before": [
+                168,
+                7,
+                23,
+                8
+              ],
+              "after": [
+                168,
+                7,
+                25,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            1560,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 23,
+              "before": [
+                181,
+                176,
+                38,
+                8
+              ],
+              "after": [
+                181,
+                176,
+                39,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            1563,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 10,
+              "before": [
+                20,
+                210,
+                29,
+                8
+              ],
+              "after": [
+                20,
+                210,
+                31,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            1564,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 11,
+              "before": [
+                43,
+                110,
+                23,
+                10
+              ],
+              "after": [
+                43,
+                110,
+                24,
+                10
+              ]
+            },
+            {
+              "index": 17,
+              "before": [
+                55,
+                181,
+                37,
+                8
+              ],
+              "after": [
+                55,
+                181,
+                40,
+                8
+              ]
+            },
+            {
+              "index": 19,
+              "before": [
+                43,
+                197,
+                23,
+                10
+              ],
+              "after": [
+                43,
+                197,
+                24,
+                10
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            1567,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 1,
+              "before": [
+                7,
+                44,
+                37,
+                8
+              ],
+              "after": [
+                7,
+                44,
+                39,
+                8
+              ]
+            },
+            {
+              "index": 5,
+              "before": [
+                7,
+                81,
+                17,
+                8
+              ],
+              "after": [
+                7,
+                81,
+                38,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            1569,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 21,
+              "before": [
+                159,
+                164,
+                38,
+                8
+              ],
+              "after": [
+                159,
+                164,
+                40,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            3008,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 0,
+              "before": [
+                0,
+                3,
+                35,
+                8
+              ],
+              "after": [
+                0,
+                3,
+                46,
+                8
+              ]
+            },
+            {
+              "index": 3,
+              "before": [
+                0,
+                21,
+                16,
+                8
+              ],
+              "after": [
+                0,
+                21,
+                38,
+                8
+              ]
+            },
+            {
+              "index": 5,
+              "before": [
+                0,
+                39,
+                30,
+                8
+              ],
+              "after": [
+                0,
+                39,
+                46,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            5004,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 0,
+              "before": [
+                7,
+                7,
+                29,
+                8
+              ],
+              "after": [
+                7,
+                7,
+                31,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            5007,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 0,
+              "before": [
+                7,
+                9,
+                27,
+                8
+              ],
+              "after": [
+                7,
+                9,
+                38,
+                8
+              ]
+            },
+            {
+              "index": 2,
+              "before": [
+                7,
+                26,
+                37,
+                8
+              ],
+              "after": [
+                7,
+                26,
+                40,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            5012,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 12,
+              "before": [
+                151,
+                176,
+                21,
+                8
+              ],
+              "after": [
+                151,
+                176,
+                22,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            8010,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 0,
+              "before": [
+                0,
+                3,
+                35,
+                8
+              ],
+              "after": [
+                0,
+                3,
+                46,
+                8
+              ]
+            },
+            {
+              "index": 3,
+              "before": [
+                0,
+                21,
+                16,
+                8
+              ],
+              "after": [
+                0,
+                21,
+                38,
+                8
+              ]
+            },
+            {
+              "index": 5,
+              "before": [
+                0,
+                39,
+                30,
+                8
+              ],
+              "after": [
+                0,
+                39,
+                46,
+                8
+              ]
+            },
+            {
+              "index": 7,
+              "before": [
+                0,
+                55,
+                35,
+                8
+              ],
+              "after": [
+                0,
+                55,
+                46,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            8012,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 0,
+              "before": [
+                0,
+                3,
+                35,
+                8
+              ],
+              "after": [
+                0,
+                3,
+                46,
+                8
+              ]
+            },
+            {
+              "index": 2,
+              "before": [
+                0,
+                21,
+                16,
+                8
+              ],
+              "after": [
+                0,
+                21,
+                38,
+                8
+              ]
+            },
+            {
+              "index": 4,
+              "before": [
+                114,
+                21,
+                31,
+                8
+              ],
+              "after": [
+                114,
+                21,
+                33,
+                8
+              ]
+            },
+            {
+              "index": 6,
+              "before": [
+                0,
+                39,
+                35,
+                8
+              ],
+              "after": [
+                0,
+                39,
+                46,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            8013,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 3,
+              "before": [
+                85,
+                39,
+                36,
+                8
+              ],
+              "after": [
+                85,
+                39,
+                46,
+                8
+              ]
+            },
+            {
+              "index": 5,
+              "before": [
+                85,
+                57,
+                17,
+                8
+              ],
+              "after": [
+                85,
+                57,
+                38,
+                8
+              ]
+            },
+            {
+              "index": 7,
+              "before": [
+                85,
+                74,
+                28,
+                8
+              ],
+              "after": [
+                85,
+                74,
+                46,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            8014,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 3,
+              "before": [
+                85,
+                39,
+                36,
+                8
+              ],
+              "after": [
+                85,
+                39,
+                46,
+                8
+              ]
+            },
+            {
+              "index": 5,
+              "before": [
+                85,
+                57,
+                17,
+                8
+              ],
+              "after": [
+                85,
+                57,
+                38,
+                8
+              ]
+            },
+            {
+              "index": 7,
+              "before": [
+                85,
+                74,
+                28,
+                8
+              ],
+              "after": [
+                85,
+                74,
+                46,
+                8
+              ]
+            },
+            {
+              "index": 9,
+              "before": [
+                85,
+                91,
+                36,
+                8
+              ],
+              "after": [
+                85,
+                91,
+                46,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "resource": [
+            5,
+            8015,
+            1033
+          ],
+          "controls": [
+            {
+              "index": 3,
+              "before": [
+                85,
+                39,
+                36,
+                8
+              ],
+              "after": [
+                85,
+                39,
+                46,
+                8
+              ]
+            },
+            {
+              "index": 5,
+              "before": [
+                85,
+                57,
+                17,
+                8
+              ],
+              "after": [
+                85,
+                57,
+                38,
+                8
+              ]
+            },
+            {
+              "index": 7,
+              "before": [
+                85,
+                74,
+                28,
+                8
+              ],
+              "after": [
+                85,
+                74,
+                46,
+                8
+              ]
+            }
+          ]
+        }
+      ],
+      "patch": "patches/SSH2Client97U.dll.json",
+      "payload": "patches/SSH2Client97U.dll.bin.gz",
+      "patch_sha256": "E10A004B0AC35B6FB584F7AAE2B58CB1A27E0E80989F78E5A8DC26FBAEC71060",
+      "payload_sha256": "5C3854096C686CC65465C19FF7420AEE78EED5A5858975AC5E290AB50C560423",
+      "original_size": 1665416,
+      "patched_size": 1643912
+    },
+    {
+      "file": "SSH2Core97U.dll",
+      "original_sha256": "5008CC01C4C4364E277E2B37A9B21598B44AB11373CA5363C386D60F1413BFD6",
+      "patched_sha256": "1AC55DE050A7E82599D1450744DBBDE720E55CA8F2D75FC9B5CCD2D1E6173E54",
+      "changed_resources": 1,
+      "translated_units": 363,
+      "non_resource_sections": {
+        ".text": "52E1C91C5F012D18A3D70D0A8ED1C7264317C4DAB7E015FAAA608D17D4134686",
+        ".rdata": "0776691AB9440EFFF4D29AE78920D6F61660C598343B814481972E1C800AC7ED",
+        ".data": "0EA9E6820B4624C8A9BB379C1A67B38D5D1A26802BEC2A57305CA74D8B06D4BB",
+        ".pdata": "655C09270A28A32DF054FD19125F28C90CA1A77C0047D659D19831ED6AB647D4",
+        ".reloc": "B205EAE8C2217549DF79CDCE8E5DBE188D364DD663209A74F40878D1AAFAB186"
+      },
+      "layout_adjustments": [],
+      "patch": "patches/SSH2Core97U.dll.json",
+      "payload": "patches/SSH2Core97U.dll.bin.gz",
+      "patch_sha256": "F222895C26BC810025EFE5841714C71A1735887F76C3FC991FC225DE40FF2966",
+      "payload_sha256": "544EDA821CF46BF8E53A12E686F57F44093DD079725DA5C4FA5ED702CA4BBA09",
+      "original_size": 4127624,
+      "patched_size": 4090248
+    },
+    {
+      "file": "TLSCore97U.dll",
+      "original_sha256": "3501B1A5582F0D816E69DEFFF337D740FF36877692EB3AD759985535B9ED4377",
+      "patched_sha256": "665DE5073F72E152D96A07BE5EA9E7B93C86006E7C4A131385DA48DE68D94065",
+      "changed_resources": 1,
+      "translated_units": 250,
+      "non_resource_sections": {
+        ".text": "F64FCB838E7561E8702D41DC2F10896241DB89E4CC77625F8C5A5CFFBF538FFC",
+        ".rdata": "FE4D8326ABF542D616B269B7DA14AD322AE0FEE42D23B2DA9030B2D1B3C931C9",
+        ".data": "6C69EC687191483C54194371246F54421BF4DF0C3BFE2BE9297AF72CDC887EAA",
+        ".pdata": "3FAE62FB00AF6889FCE0B9DE82CB437CFAEBFD232F9BDDB2A3D519AAAFDF29FA",
+        ".reloc": "D7DBB2C940FFEC70F56C2DA5129C34AA8EAB61790395D4CE59CC04FC4735627B"
+      },
+      "layout_adjustments": [],
+      "patch": "patches/TLSCore97U.dll.json",
+      "payload": "patches/TLSCore97U.dll.bin.gz",
+      "patch_sha256": "73D712526641FBAD5EE057776B53C1DE4622F36C1D2C78F14025B0A487A0BD36",
+      "payload_sha256": "B62242CD7D17AD4034659A26ED8C772AFD11AA0AAC2D4116A2CD8C167147F4A0",
+      "original_size": 390024,
+      "patched_size": 372104
+    }
+  ],
+  "menu_captions_sha256": "59AD50522619557736EEB3041A8102F94888BFC644FB2E09F846FA1D8FCCEA2D"
+}

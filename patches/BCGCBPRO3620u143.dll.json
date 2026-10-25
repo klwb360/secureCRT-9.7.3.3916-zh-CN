@@ -1,0 +1,19 @@
+{
+  "operations": [
+    {
+      "kind": "literal",
+      "offset": 0,
+      "length": 4096
+    },
+    {
+      "kind": "copy",
+      "offset": 4096,
+      "length": 14438400
+    },
+    {
+      "kind": "literal",
+      "offset": 4096,
+      "length": 1229192
+    }
+  ]
+}
